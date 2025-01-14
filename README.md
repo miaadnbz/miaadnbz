@@ -1,13 +1,13 @@
 ## Hi there 👋
-## This is Seyed Miaad Nabizadeh, but you can call me simply Miaad.
-## Welcome to my GitHub! I’m a data-driven marketing analyst with a knack for turning data into actionable insights and creative solutions to real-world problems.
+- This is Seyed Miaad Nabizadeh, but you can call me simply Miaad.
+- Welcome to my GitHub! I’m a data-driven marketing analyst with a knack for turning data into actionable insights and creative solutions to real-world problems.
 
 ## 💻 What I work with:
 
-## Languages & Tools: SQL, Python, R, Power BI, and always exploring new technologies.
-## Interests: Building models, analyzing datasets, and collaborating on innovative projects.
+- Languages & Tools: SQL, Python, R, Power BI, and always exploring new technologies.
+- Interests: Building models, analyzing datasets, and collaborating on innovative projects.
 ## 🌟 A little about me:
-## When I’m not deep in code or crunching numbers, you can find me enjoying coffee, indulging in pizza, or reflecting on the journey of learning itself. I believe in embracing ambiguity and finding common ground to tackle challenges together.
+- When I’m not deep in code or crunching numbers, you can find me enjoying coffee, indulging in pizza, or reflecting on the journey of learning itself. I believe in embracing ambiguity and finding common ground to tackle challenges together.
 
 ## 🤝 Let’s connect, collaborate, and create something meaningful. Cheers! ☕🍕
 <!--
