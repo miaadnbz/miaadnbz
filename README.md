@@ -4,7 +4,7 @@
 
 ## 💻 What I work with:
 
-## Languages & Tools: SQL, Python, Power BI, and always exploring new technologies.
+## Languages & Tools: SQL, Python, R, Power BI, and always exploring new technologies.
 ## Interests: Building models, analyzing datasets, and collaborating on innovative projects.
 ## 🌟 A little about me:
 ## When I’m not deep in code or crunching numbers, you can find me enjoying coffee, indulging in pizza, or reflecting on the journey of learning itself. I believe in embracing ambiguity and finding common ground to tackle challenges together.
